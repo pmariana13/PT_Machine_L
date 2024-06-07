@@ -1,4 +1,4 @@
-## Pueba_tecnica_ML
+## PT_ML
 
 ### Ejercicio 1. Explica la diferencia entre aprendizaje supervisado y no supervisado. Proporciona ejemplos de algoritmos para cada tipo.
 
