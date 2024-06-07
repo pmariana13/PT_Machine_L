@@ -20,7 +20,7 @@ Ejemplo de algoritmos:
 ### Ejercicio 2. ¿Qué es el overfitting y cómo se puede prevenir?
 
 Es cuando el modelo se ajusta excesivamente a los datos de entrenamiento y tiene dificultad para generalizar y hacer predicciones precisas sobre nuevos datos.
-Entre las técnicas para prevenir son: regularizar los datos, usar técnicas de validación cruzada, aumentar datos (asegurarnos que sean datos limpios y libres de inconsistencias), elegir modelos más simples o reducir parámetros.
+Entre las técnicas para prevenir son: usar técnicas de validación cruzada, aumentar datos (asegurarnos que sean datos limpios y libres de inconsistencias), elegir modelos más simples o reducir parámetros.
 
 
 ### Ejercicio 3. Describe brevemente el algoritmo de Random Forest y menciona sus principales ventajas y desventajas.
