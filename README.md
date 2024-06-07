@@ -47,7 +47,7 @@ El algoritmo Random Forest (bosque aleatorio) es un método de aprendizaje autom
 
 ### Ejercicio 4. ¿Qué es una red neuronal convolucional (CNN) y para qué tipo de tareas es más adecuada?
 
-Es un tipo de red neuronal especialmente diseñada para procesar datos con una estructura de cuadrícula, como las imágenes. Son muy efectivas para tareas de visión por computadora debido a su capacidad para capturar las características espaciales y temporales de los datos como clasificación de imágenes, detección de objetos, captura de imágenes médicas, reconocimiento facial, visión por computadora en automóviles autónomos entre otros.
+Es un tipo de red neuronal especialmente diseñada para procesar datos con una estructura de cuadrícula, como las imágenes. Son muy efectivas para tareas de visión por computadora debido a su capacidad para capturar las características espaciales y temporales de los datos, es utilizada principalmente para el reconocimiento y procesamiento de imágenes, clasificación, detección de objetos, captura de imágenes médicas, reconocimiento facial.
 
 ### Ejercicio 5. ¿Qué es la limpieza de datos y por qué es importante en el proceso de análisis de datos? Proporciona ejemplos de técnicas de limpieza de datos.
 Es el proceso de detectar y corregir (o eliminar) cualquier error o inconsistencia en los datos. Su objetivo principal es mejorar la calidad de los datos, asegurando que la información sea precisa, consistente y utilizable.
