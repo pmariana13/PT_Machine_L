@@ -24,22 +24,26 @@ Entre las técnicas para prevenir son: regularizar los datos, usar técnicas de 
 
 
 ### Ejercicio 3. Describe brevemente el algoritmo de Random Forest y menciona sus principales ventajas y desventajas.
+
+El algoritmo Random Forest (bosque aleatorio) es un método de aprendizaje automático supervisado utilizado tanto para tareas de clasificación como de regresión. Es una técnica de conjunto que combina múltiples árboles de decisión individuales para generar una predicción más robusta y precisa.
+
 - El algoritmo toma “n” números de registros aleatorios del conjunto de datos.
 - Se construyen árboles de decisión individuales para cada muestra.
 - Cada árbol de decisión generará una salida.
 - El resultado final depende de la mayoría o el promedio para la clasificación y la regresión, respectivamente.
 
  ***Ventajas:***
-- Funciona para problemas de clasificación y también de regresión.
-- Existen muy pocas suposiciones y por lo tanto la preparación de los datos es mínima.
-- Puede manejar hasta miles de variables de entrada e identificar las más significativas
-- Reduce considerablemente el riesgo de overfiting al utulizar multiples árboles.
+- Alta precisión
+- Robustez frente al sobreajuste.
+- Manejo eficaz de características
+- Eficiencia en grandes conjuntos de datos
+- Poca necesidad de ajuste de hiperparámetros.
   
 ***Desventajas:***
-- Puede requerir muchísimo tiempo de entrenamiento
+- Puede requerir muchísimo tiempo de entrenamiento.
 - No funciona bien con datasets pequeños.
-- Pérdida de interpretación
-- En regresión, no puede predecir más allá del rango de valores del conjunto de entrenamiento.
+- Pérdida de interpretación.
+- Menos efectivo con datos dispersos
 
 ### Ejercicio 4. ¿Qué es una red neuronal convolucional (CNN) y para qué tipo de tareas es más adecuada?
 
@@ -48,6 +52,7 @@ Es un tipo de red neuronal especialmente diseñada para procesar datos con una e
 ### Ejercicio 5. ¿Qué es la limpieza de datos y por qué es importante en el proceso de análisis de datos? Proporciona ejemplos de técnicas de limpieza de datos.
 Es el proceso de detectar y corregir (o eliminar) cualquier error o inconsistencia en los datos. Su objetivo principal es mejorar la calidad de los datos, asegurando que la información sea precisa, consistente y utilizable.
 Entre las técnicas de limpieza son:
+
 - Eliminación de duplicados
 - manejo de datos faltantes
 - Corrección de datos incorrectos 
