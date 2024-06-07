@@ -28,8 +28,8 @@ Entre las técnicas para prevenir son: regularizar los datos, usar técnicas de 
 - Se construyen árboles de decisión individuales para cada muestra.
 - Cada árbol de decisión generará una salida.
 - El resultado final depende de la mayoría o el promedio para la clasificación y la regresión, respectivamente.
-- 
-  *** Ventajas:***
+
+ ***Ventajas:***
 - Funciona para problemas de clasificación y también de regresión.
 - Existen muy pocas suposiciones y por lo tanto la preparación de los datos es mínima.
 - Puede manejar hasta miles de variables de entrada e identificar las más significativas
@@ -62,9 +62,9 @@ Herramientas y bibliotecas: las bibliotecas de Python como Beautiful Soup, Scrap
 <br>
 ### Ejercicio 7. Describe los pasos básicos para extraer datos de una página web y transformarlos en un formato utilizable para el análisis de datos.
 
-Pasos básicos según (Persson 2019)
-Paso 1: Acceso al sitio web a través del protocolo HTTP. Obtener la página HTML como respuesta.
+***Pasos básicos según (Persson 2019)***
+- Paso 1: Acceso al sitio web a través del protocolo HTTP. Obtener la página HTML como respuesta.
 
-Paso 2: Etapa de extracción. Utilizando técnicas de expresiones regulares, las bibliotecas de parseo HTML y las consultas XPath son utilizadas en esta etapa.
+- Paso 2: Etapa de extracción. Utilizando técnicas de expresiones regulares, las bibliotecas de parseo HTML y las consultas XPath son utilizadas en esta etapa.
 
-paso 3: Etapa de transformación. Los datos son convertidos en un formato estructurado y almacenados para un posterior análisis.
+- paso 3: Etapa de transformación. Los datos son convertidos en un formato estructurado y almacenados para un posterior análisis.
